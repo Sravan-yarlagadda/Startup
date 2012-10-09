@@ -1,4 +1,4 @@
 Startup
 =======
 
-DemoApp
+MyFirstApp
