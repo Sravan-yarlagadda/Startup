@@ -8,5 +8,6 @@
     <string name="title_activity_main">MyApp</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
 	<string name="add_button">Add</string>
+	<string name="Demo">Demo String</string>
 
 </resources>
