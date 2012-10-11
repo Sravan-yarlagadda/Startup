@@ -7,5 +7,6 @@
     <string name="edittext_hint">Enter a message</string>
     <string name="title_activity_main">MyApp</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
+	<string name="add_button">Add</string>
 
 </resources>
